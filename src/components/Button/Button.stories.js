@@ -34,3 +34,9 @@ BtnAttention.args = {
   label: "Go",
   style: "attention",
 };
+
+export const BtnSmSuccess = Template.bind({});
+BtnAttention.args = {
+  label: "SEE MORE",
+  style: "primary small",
+};
